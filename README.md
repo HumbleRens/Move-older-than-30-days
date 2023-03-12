@@ -1,1 +1,1 @@
-Simple script to move anything that was last modified 30+ days from one location the next.
+Simple script to move anything that was last modified from 30+ days to one location the next.
